@@ -4,22 +4,16 @@
 An interactive ecommerce sales analytics dashboard built using **Power BI**. The project analyzes sales, profit, quantity, and customer data across Indian states using two relational datasets.
 
 ---
+
+
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
-
-![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) 
-
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
 ![EDA](https://img.shields.io/badge/Project-EDA-3670A0?style=for-the-badge) 
-
 ![KPI Analysis](https://img.shields.io/badge/Project-KPI%20Analysis-0078D4?style=for-the-badge)
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-F2C811?style=for-the-badge) 
-
 
 
 ---
